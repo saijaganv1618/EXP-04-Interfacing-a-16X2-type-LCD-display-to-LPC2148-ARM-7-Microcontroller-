@@ -1,7 +1,7 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 ~~~
-Name : H.Syed Abdul Wasih
-Reg no : 212221240057
+Name : jagan A
+Reg no : 212221230037
 Date of experiment : 14/10/2022
 ~~~
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
@@ -180,11 +180,11 @@ int main(void)
 ~~~
 ## Proteus simulation: 
 ### LCD OFF:
-![2](https://user-images.githubusercontent.com/91781810/195811475-5c2bf36b-1220-48cc-b7f8-ba7fab3f6ba8.jpg)
+![2](1.png)
 ### LCD ON:
-![1](https://user-images.githubusercontent.com/91781810/195811528-316bc48c-8dbc-4a04-978a-b18caa2dd93e.jpg)
+![1](2.png)
 ##  Layout Diagram: 
-![3](https://user-images.githubusercontent.com/91781810/195811664-c87b5312-d531-46ec-87e6-3f5e0bf2fa53.jpg)
+![3](3.jpeg)
 ## Result :
 Interfaced an LCD with ARM microcontroller is executed and displayed the strings.
 
